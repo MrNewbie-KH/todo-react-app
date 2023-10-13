@@ -1,3 +1,4 @@
 - [x] create folder structure
-- [] Build app like if it is only one big comonent
-- [] start making modular apps
+- [x] Build app like if it is only one big comonent
+- [x] start making modular apps
+- [] create form element
