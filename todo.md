@@ -1,0 +1,3 @@
+- [x] create folder structure
+- [] Build app like if it is only one big comonent
+- [] start making modular apps
