@@ -1,4 +1,7 @@
 - [x] create folder structure
 - [x] Build app like if it is only one big comonent
 - [x] start making modular apps
-- [] create form element
+- 1 Form component
+- [x] create form element
+- [x] use it in app
+- [x] pass data between components through Props
